@@ -1,0 +1,10 @@
+#insertion sort 
+data = [5,6,78,3,4,5,12]
+
+insertion_data = []
+
+for i in range(len(data)):
+    insertion_data.append(data[i])
+
+print(f"Original data: {data}")
+print(f"Data after insertion sort: {insertion_data}")
