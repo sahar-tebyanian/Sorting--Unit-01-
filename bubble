@@ -1,0 +1,7 @@
+#bubble sort 
+numbers = [12, 23, 45, 34, 67, ,67,]
+for i in range (len(numbers)):
+for j in range (len(number)-1):
+    if numbers[j] > numbers[j+1]
+number [j], numbers [j+1] = numbers [j+1]
+print (numbers)
